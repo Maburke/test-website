@@ -4,8 +4,9 @@ title: Privacy
 ---
 
 Here are some of the available feature:
-  1.
-  2.
-  3.
+- Awesome
+- Secret
 
-Why you should choose us
+Why you should choose us:
+- We are looking out for you
+- It's a new soltuion
