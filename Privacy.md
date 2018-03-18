@@ -1,6 +1,6 @@
 ---
-layout:  page
-title:  Privacy
+layout: page
+title: Privacy
 ---
 
 This talks about our security policy. 
