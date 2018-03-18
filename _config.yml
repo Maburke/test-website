@@ -1,0 +1,10 @@
+# basic options
+title: Test Site
+author: Michael Burke
+email: maburke@uncg.edu
+description: This is a test website for a proof of concept
+github_username:  maburke
+
+# Build settings
+markdown: kramdown
+theme: minima
