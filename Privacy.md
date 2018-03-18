@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Privacy
+title: About
 ---
 
-Here are some of the available feature:
-- Awesome
-- Secret
+This is an about page about this awesome site.
+Hope you love it!
 
-Why you should choose us:
-- We are looking out for you
-- It's a new soltuion
+Reasons:
+- its great.
+- its a test.
+
+## Other thoughts
+
+This is great.
