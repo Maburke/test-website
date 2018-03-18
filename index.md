@@ -19,8 +19,10 @@ Describe what you see here...
 
 ### Privacy
 Have a brief overview of the privacy here. 
+
 Link to the security page: [Privacy](https://maburke.github.io/test-website/Privacy)
 
 ### Security
 Have a brief overview of security here.
+
 Link to the security page: [Security](https://maburke.github.io/test-website/Security)
